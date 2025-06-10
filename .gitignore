@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+test_data/
+*.png
+*.jpg
+data/
+test.py 
 
 # C extensions
 *.so
